@@ -23,6 +23,7 @@ excerpt: 'Σχεδιασμός και κατασκευή συνεργατικώ�
 
   {% assign random = site.time | date: "%s%N" | modulo: site.case-study.size %}
 
-  {% include feature_col.html id="case-study" type="right" index=random %}
+ <a class="twitter-timeline" href="https://twitter.com/p17theo3?ref_src=twsrc%5Etfw" data-width="300"
+data-height="300">Tweets by p17theo3</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div>
